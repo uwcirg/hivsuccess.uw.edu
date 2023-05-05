@@ -443,7 +443,7 @@ input, select, textarea {
 			cursor: default;
 			display: block;
 			font-size: 2em;
-			height: 0em;
+			height: 2em;
 			left: 50%;
 			line-height: 2em;
 			margin: -1em 0 0 -1em;
@@ -2244,7 +2244,7 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("images/dave-hoefler-kkug85VGWss-unsplash.jpg"), url("../../images/dave-hoefler-kkug85VGWss-unsplash.jpg");
+		background: url("images/background-dark.png"), url("../../images/background-dark.png");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
