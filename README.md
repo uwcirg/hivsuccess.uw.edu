@@ -1,2 +1,2 @@
 # hivsuccess.uw.edu
-HIV Success website
+A super basic coming soon page for CIRG projects: HIV Success website
